@@ -1,9 +1,14 @@
-<h3 align="center">
-  Welcome to CUMOON's Profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<h1 align="center">
+
+  <a href="https://github.com/cumoon"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%"></a>
+
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F71A3C&center=true&vCenter=true&lines=Self+Taught+Programmer;🌜+MooN+🌛"><br>
+
+  <img src="https://user-images.githubusercontent.com/89135083/194812319-b3630f42-576c-4c58-841c-0a6d9e054c78.svg" alt="just for fun :D"></a>
+
+</p><br>
   <a href="https://t.me/Dev_moon"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://www.instagram.com/cumoon7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
