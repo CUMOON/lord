@@ -10,6 +10,7 @@
 ## 📫 Contact with me
 <div align="left">
 <a href="https://t.me/Dev_moon"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a style="margin-left: 10px" href='https://twitter.com/_cumoon_' target="_blank"><img alt='twitter' src='https://img.shields.io/badge/twitter-100000?style=for-the-badge&logo=twitter&logoColor=FFFFFF&labelColor=1DA1F2&color=1DA1F2'/></a>
 </div>
 
 <br>
@@ -22,11 +23,12 @@
 </br>
 
 
-## 💻 known languages
+## 👨‍💻 Programming languages
 
 ![Python](https://img.shields.io/badge/Python-%2314354C?&style=for-the-badge&logoColor=white&logo=python)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![DART](https://img.shields.io/badge/Dart-100000?style=for-the-badge&logo=dart&logoColor=00FFE1&labelColor=003C3C&color=003C3C)
 
 ### Top Languages
 ![op](https://github-readme-stats.vercel.app/api/top-langs/?username=CUMOON&theme=radical&layout=compact&langs_count=6&hide_border=true)
