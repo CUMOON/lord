@@ -27,7 +27,7 @@
 ![Python](https://img.shields.io/badge/Python-%2314354C?&style=for-the-badge&logoColor=white&logo=python)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![DART](https://img.shields.io/badge/Dart-100000?style=for-the-badge&logo=dart&logoColor=00FFE1&labelColor=003C3C&color=003C3C)
+![DART](https://img.shields.io/badge/Dart-100000?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Top Languages
 ![op](https://github-readme-stats.vercel.app/api/top-langs/?username=CUMOON&theme=radical&layout=compact&langs_count=6&hide_border=true)
