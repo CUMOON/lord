@@ -10,7 +10,6 @@
 ## 📫 Contact with me
 <div align="left">
 <a href="https://t.me/Dev_moon"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a style="margin-left: 10px" href='https://twitter.com/_cumoon_' target="_blank"><img alt='twitter' src='https://img.shields.io/badge/twitter-100000?style=for-the-badge&logo=twitter&logoColor=FFFFFF&labelColor=1DA1F2&color=1DA1F2'/></a>
 </div>
 
 <br>
